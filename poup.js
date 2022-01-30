@@ -1,4 +1,4 @@
-document.addEventListener('DOMContentLoaded', function () {
+// document.addEventListener('DOMContentLoaded', function () {
     document.querySelector('#runCoDE').addEventListener('click', onclick, false)
 
     function onclick() {
@@ -11,4 +11,4 @@ document.addEventListener('DOMContentLoaded', function () {
             }
         )
     }
-}, false)
+// }, false)
